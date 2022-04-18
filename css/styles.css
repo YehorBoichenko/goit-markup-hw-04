@@ -159,7 +159,7 @@ ul,ol,li,p,h1,h2,h3,h4,h5,h6{
   padding-top: 200px;
   padding-bottom: 200px;
   background-image: linear-gradient(to top, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
-  url(/images/heroimage.png);
+  url(./images/heroimage.png);
   background-color: var(--seconadary-bg-color);
   background-position: center;
   background-size: cover;
